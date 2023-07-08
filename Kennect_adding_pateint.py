@@ -56,6 +56,7 @@ def adding_patients_and_creating_tests():
         # Pateint name
         if "test" in txt:
             print("Pateint is present.")
+            break
 
 logoin()
 adding_patients_and_creating_tests()
